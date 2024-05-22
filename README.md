@@ -1,7 +1,7 @@
 ## Made By CrazyMindd
 # Bulk-Text-uploader-new
 [![Join Group](https://img.shields.io/badge/Join-Group-2CA5E0?logo=telegram)](https://t.me/crazy_mind_official_group)
-[![Join Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?logo=telegram)](https://t.me/crazy_mind_official_group)
+[![DM Telegram](https://img.shields.io/badge/DM-Telegram-2CA5E0?logo=telegram)](https://t.me/crazy_mind_official_group)
 
 If you face any errors, please DM me on Telegram.
 <p align="center">
