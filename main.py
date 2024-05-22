@@ -15,7 +15,7 @@ import asyncio
 from pyrogram.errors import FloodWait
 import time
 from pyrogram.types import User, Message
-from KHABAR.p_bar import progress_bar
+from CrazyMindd.p_bar import progress_bar
 import subprocess
 from subprocess import getstatusoutput
 import logging
