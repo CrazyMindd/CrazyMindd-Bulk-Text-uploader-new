@@ -1,3 +1,4 @@
+## Made By CrazyMindd
 # Bulk-Text-uploader
 [![Join Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?logo=telegram)](https://t.me/crazy_mind_official_group)
 
