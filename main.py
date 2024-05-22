@@ -94,7 +94,7 @@ async def callback_handler(client, query):
     elif query.data == "feedback":
         await query.answer("📝 Feedback 📝")
         await query.message.reply_text(
-            "Please leave your feedback by contacting @Yeh_yaa. Your input helps us improve the bot and provide a better experience for all users."
+            "Please leave your feedback by contacting @Crazy_Mind_Official. Your input helps us improve the bot and provide a better experience for all users."
         )
 
   
