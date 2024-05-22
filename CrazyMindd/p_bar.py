@@ -1,7 +1,7 @@
 import time
 import math
 import os
-from KHABAR.Easy_F import hrb,hrt
+from CrazyMindd.Easy_F import hrb,hrt
 from pyrogram.errors import FloodWait
 
 class Timer:
