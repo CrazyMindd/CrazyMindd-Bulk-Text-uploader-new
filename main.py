@@ -1,4 +1,4 @@
-#https://github.com/CrazyMindd/CrazyMindd-Bulk-Text-uploader-new/blob/main/main.py
+#https://github.com/SUHAIB-RASHID-DAR/Bulk-Text-uploader/blob/main/main.py
 import requests
 import json
 import subprocess
