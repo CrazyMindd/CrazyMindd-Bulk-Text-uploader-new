@@ -1,4 +1,5 @@
 ## Made By CrazyMindd
+## working repo
 # Bulk-Text-uploader-new
 [![Join Group](https://img.shields.io/badge/Join-Group-2CA5E0?logo=telegram)](https://t.me/crazy_mind_official_group)
 [![DM Telegram](https://img.shields.io/badge/DM-Telegram-2CA5E0?logo=telegram)](https://t.me/Crazy_Mind_Official)
